@@ -12,7 +12,7 @@ IOS设备用户可以通过使用Safari浏览器打开[链接](https://raw.githu
 
 ![preview](https://github.com/ontheway01/2018worldcupicalendar/blob/master/preview.jpg?raw=true)
 
-# 小组赛后动态更新
+## 未完待续，小组赛后更新
 
 # [ics格式说明](https://en.wikipedia.org/wiki/ICalendar)
 
