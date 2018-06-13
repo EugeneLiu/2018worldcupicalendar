@@ -6,18 +6,18 @@ IOS设备用户可以通过使用Safari浏览器打开[链接](https://raw.githu
 
 或者直接微信扫描二维码，然后使用Safari打开二维码指向的链接。
 
-![QR code](https://github.com/EugeneLiu/2018worldcupicalendar/blob/master/qrcode.png?raw=true)
+![QR code](https://github.com/ontheway01/2018worldcupicalendar/blob/master/qrcode.png?raw=true)
 
 效果如下：
 
-![preview](https://github.com/EugeneLiu/2018worldcupicalendar/blob/master/preview.jpg?raw=true)
+![preview](https://github.com/ontheway01/2018worldcupicalendar/blob/master/preview.jpg?raw=true)
 
 # 小组赛后动态更新
 
 # [ics格式说明](https://en.wikipedia.org/wiki/ICalendar)
 
 ```
-BEGIN:VCALENDAR #日历开始														
+BEGIN:VCALENDAR #日历开始
 VERSION:2.0 #遵循的iCalendar 版本号
 PRODID:-//2018 worldcup//2018 worldcup 1.0//CN #软件信息
 METHOD:PUBLISH #方法：公开 也可以是 REQUEST 等用于日历间的信息沟通方法
